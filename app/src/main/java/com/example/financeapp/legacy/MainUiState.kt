@@ -42,4 +42,3 @@ internal fun reduce(state: MainUiState, event: MainUiEvent): MainUiState = when 
         )
     }
 }
-
